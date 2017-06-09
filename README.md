@@ -1,2 +1,3 @@
-# summerseminar2016
-Jekyll web site for CHS seminar, summer 2016, at <http://homermultitext.github.io/summerseminar2016>.
+# CHS seminar
+
+Jekyll web site for Homer Multitext project seminar at the Center for Hellenic Studies seminar, see <http://homermultitext.github.io/chsseminar>.
