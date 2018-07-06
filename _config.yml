@@ -19,4 +19,8 @@ baseurl: '/chsseminar/'
 author:
   name:           'Neel Smith'
 
-paginate:         5
+
+
+links:
+  - title: Travel to CHS
+    url: /travel
