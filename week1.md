@@ -1,67 +1,75 @@
 ---
-title: Week 1 schedule
+title: "Week 1:  introduction to digital editing"
 layout: page
 ---
 
 
-
-Seminar sessions are held in House A. AM seminars begin at 9:00 a.m., PM sessions begin at 2:00 p.m., and bonus sessions ("Scripting the HMT") begin at 5:00.
-
-
-Background reading (before the seminar begins):
-
--   Bakker, E. “The Language of Homer.” (Forthcoming article from the Cambridge Homer Encyclopedia, sent by email)
--   Dué, C., ed. *Recapturing a Homeric Legacy: Images and Insights from the Venetus A Manuscript of the Iliad*. Center for Hellenic Studies, 2009: <http://www.homermultitext.org/Pubs/Due_Recapturing_a_Homeric_Legacy.pdf>
+Seminar sessions are held in House A. AM seminars begin at 9:00 a.m., PM sessions begin at 2:00 p.m. Brief (20 minute) scripting sessions ("Scripting the HMT") begin at 5:00.
 
 
-## Wed., July 5
+## Mon., July 9
 
-Arrival and opening reception.
+Arrival, and opening reception (CHS Common Room, 6:30)
 
+## Tues., July 10
 
-## Thurs., July 6
-
-**AM session**:  Citation and paleographic annotation.
+**AM session**:  Citation and paleographic annotation.  [Preparation](../schedule/reading/citation)
 
 **Team project**:  Paleographic annotation of *Iliad* text.
 
+**PM session**:  Documented scholarly editions.
 
-**PM session**:  The Homer Multitext as an Extension of the Fieldwork of Milman Parry and Albert Lord
-
-Reading:
-
--   Dué, C. and M. Ebbott, “The Homer Multitext and the System of Homeric Epic.” Classics@ 14: <http://chs.harvard.edu/CHS/article/display/6524>
--   From the Cambridge Homer Encyclopedia (sent by email):
-    -   Dué, C. and G. Nagy, “Albert Bates Lord.”
-    -   Dué, C. and G. Nagy, “Milman Parry.”
-    -   Ebbott, M. “Homeric Epic in Performance."
-
-**Bonus session**, "Scripting the HMT":  Digital URNs
-
-## Fri., July 7
-
-**AM session**:  the HMT project editorial model, and XML editing
-
-**Team project**: Edit *Iliad* text
-
-**PM session**:  The Venetus A as a Multitextual Artifact.
-
-Reading assignment in advance of session:
-
--   Dué, C. “Epea Pteroenta: How We Came to Have Our Iliad.” In C. Dué, ed., *Recapturing a Homeric Legacy: Images and Insights from the Venetus A Manuscript of the Iliad*. Center for Hellenic Studies, 2009.
--   Nagy, G. “From Song to Text.” (Forthcoming article from the Cambridge Homer Encyclopedia, sent by email)
+**Team project**:  DSE indexing of *Iliad* text.
 
 
-**Bonus session**, "Scripting the HMT":   Scala collections
+**Bonus event**:  tour of "Black Classicists" exhibit with Caroline Stark, Assistant Professor of Classics at Howard University.  Gather at CHS Common Room, 3:15.
+
+## Wed., July 11
+
+**AM session**: The Homer Multitext as an Extension of the Fieldwork of Milman Parry and Albert Lord.  [Preparation](../schedule/reading/parrylord)
 
 
-## Sat., July 8
+**Team project**:  Complete paleography and DSE indexing of assigned page in Upsilon 1.1;  optionally, do the same for assigned page in Venetus B.
 
-**AM session**:   Applying XML to scholia and Chinese boxing of the editor's guide
 
-**PM**:  Introduction to reading scholia
+**Optional library tour**:  Meet in Common Room at 12:00.
 
-**Team project**:  Begin paleography, indexing and editing cycle: scholia.
-Pick out a problem to bring to Monday's AM seminar.
+**PM session**:  the HMT project editorial model, and XML editing.  [Preparation](../schedule/reading/xmlmarkup)
 
-**Bonus session**, "Scripting the HMT":   Some magic libraries
+
+**Team project**:  Begin XML editing of Upsilon 1.1 *Iliad* text.
+
+
+**Scripting the HMT**:  Digital URNs
+
+
+## Thurs., July 12
+
+**AM session**:  From Song to Text.  [Preparation](../schedule/reading/songtotext)
+
+**Team project**:  Complete XML editing of Upsilon 1.1 *Iliad* text.  Optionally, begin editing *Iliad* text in Venetus B.
+
+**PM session**:  Introduction to reading *scholia*
+
+
+
+**Scripting the HMT**:   Scala collections
+
+## Fri., July 13
+
+
+**AM session**: Poetics of *Iliad* 10.  [Preparation](../schedule//reading/iliad10poetics)
+
+
+**PM session**:  [Scholia reading party](../schedule/reading/scholiaparty)
+
+**Scripting the HMT**:  Some magic libraries
+
+## Sat., July 14
+
+
+(Reminder: no breakfast)
+
+**AM session**:  Comparing manuscripts: what do we know about transmission of *scholia* ?
+
+Catered lunch at 12:30, after which you are free for the weekend.  Week 2 schedule posted by Sunday evening!

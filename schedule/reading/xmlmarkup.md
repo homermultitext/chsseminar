@@ -87,11 +87,3 @@ As an editor, you will always want to create documents that can be validated aga
 Given that XML is, by definition, extensible, what vocabulary should we use for editing scholarly texts? The main standard today is the Guidelines of the Text Encoding Initiative (TEI), now in version P5.
 
 TEI's strength is also its weakness. The Guidelines try to offer suggested markup for every conceivable task of scholarly editing. For any one task the Guidelines sometimes offer multiple possibilities, among which editors may choose for the purposes of a particular project. They really are, in other words, guidelines, and not a strict technical standard. Be very cautious if someone naively asserts that documents from two different editors can easily be used together because both comply with the TEI Guidelines: there is plenty of room within the TEI for TEI-compliant texts to be incompatible in various ways.
-
-For your initial work editing texts with TEI P5, have at hand the essential cha[pter 3 of the P5 Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/CO.html).
-This is the heart of TEI P5, and if you stick to material documented in this chapter, you'll be well on your way to creating TEI texts that really can be used with material from other editors.
-
-The full contents of version P5 of the Text Encoding Initiative's Guidelines are [online here](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html).
-In addition to the table of contents, you may find the [index of all elements](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/REF-ELEMENTS.html) in P5 helpful as you're working on a text.
-
-￼￼￼
