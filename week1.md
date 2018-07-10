@@ -13,7 +13,7 @@ Arrival, and opening reception (CHS Common Room, 6:30)
 
 ## Tues., July 10
 
-**AM session**:  Citation and paleographic annotation.  [Preparation](../schedule/reading/citation)
+**AM session**:  Citation and paleographic annotation.  
 
 **Team project**:  Paleographic annotation of *Iliad* text.
 
