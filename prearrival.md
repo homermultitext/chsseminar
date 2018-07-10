@@ -14,7 +14,7 @@ We'll use github to share our work.  If you don't yet have a github account, ple
 
 ##  Reading for first seminar meeting
 
-Please complete [this very short reading assignment](schedule/reading/hollywood) before our first meeting on Tuesday morning (July 10).
+Please complete [this very short reading assignment](../schedule/reading/hollywood) before our first meeting on Tuesday morning (July 10).
 
 
 ## On arrival at CHS
