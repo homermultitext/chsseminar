@@ -4,7 +4,7 @@ title: "CHS summer seminar, 2018"
 ---
 
 
-The Homer Multitext project’s 2018 summer seminar at the Center for Hellenic Studies will run from Monday, July 5, through Friday, July 20. Tweet it at #hmtchs2018.
+The Homer Multitext project’s 2018 summer seminar at the Center for Hellenic Studies will run from Monday, July 5, through Friday, July 20. Tweet it at `#hmtchs2018`.
 
 
 
