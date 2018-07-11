@@ -7,11 +7,13 @@ title: "Key links and references"
 ## Key links
 
 
--  The [HMT Cite-App](http://www.homermultitext.org/hmt-digital/)
--  [Look up HMT URNs](https://interwing.nl/hmt/urn/)
--  [The HMT Image Citation Tool](http://www.homermultitext.org/ict2)
+-   A cheat sheet on the [HMT project work flow with git](../workflow-w-git)
+-   There's an Atom plugin to wrap the selection in an XML tag!  <https://atom.io/packages/atom-wrap-in-tag>
+-   The [HMT Cite-App](http://www.homermultitext.org/hmt-digital/)
+-   [Look up HMT URNs](https://interwing.nl/hmt/urn/)
+-   [The HMT Image Citation Tool](http://www.homermultitext.org/ict2)
 -   Editor's guide
--  [HMT authority lists](https://github.com/homermultitext/hmt-authlists) (request new identifiers for people, places...)
+-   [HMT authority lists](https://github.com/homermultitext/hmt-authlists) (request new identifiers for people, places...)
 -   [Key to reading Erbse](http://homermultitext.github.io/hmt-docs/tips/erbse-key/)
 
 
