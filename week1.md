@@ -13,7 +13,7 @@ Arrival, and opening reception (CHS Common Room, 6:30)
 
 ## Tues., July 10
 
-**AM session**:  Citation and paleographic annotation.  
+**AM session**:  Citation and paleographic annotation.
 
 **Team project**:  Paleographic annotation of *Iliad* text.
 
@@ -29,7 +29,7 @@ Arrival, and opening reception (CHS Common Room, 6:30)
 **AM session**: The Homer Multitext as an Extension of the Fieldwork of Milman Parry and Albert Lord.  [Preparation](../schedule/reading/parrylord)
 
 
-**Team project**:  Complete paleography and DSE indexing of assigned page in Upsilon 1.1;  optionally, do the same for assigned page in Venetus B.
+**Team project**:  Complete paleography and DSE indexing of assigned page in Upsilon 1.1;  optionally, do the same for assigned page in Venetus B.  See [instructions on DSE indexing](../schedule/dse1).
 
 
 **Optional library tour**:  Meet in Common Room at 12:00.
