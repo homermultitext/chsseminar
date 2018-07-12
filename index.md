@@ -12,7 +12,12 @@ The Homer Multitext project’s 2018 summer seminar at the Center for Hellenic S
 
 
 -   Slides from  "Scripting the Homer Multitext"  available in [this folder](scripting)
-
+-  Sequence of tasks:
+   1.  index *Iliad* lines in Upsilon 1.1 (optionally:  Venetus B)
+   2. edit *Iliad* lines in Upsilon 1.1
+   3. index scholia in Upsilon 1.1
+   4. edit scholia in Upsilon 1.1
+   5. index scholion markers in Upsilon 1.1
 
 
 ## HMT seminar, 2018
