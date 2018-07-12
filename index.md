@@ -11,7 +11,7 @@ The Homer Multitext project’s 2018 summer seminar at the Center for Hellenic S
 ## News, announcements
 
 
--   Slides from  "Scripting the Homer Multitext"  available in [this folder](scripting)
+-   For this afternoon's "scripting" session:  please [clone this repository](https://github.com/homermultitext/script-the-hmt) on your laptop
 -  Sequence of tasks:
    1.  index *Iliad* lines in Upsilon 1.1 (optionally:  Venetus B)
    2. edit *Iliad* lines in Upsilon 1.1
