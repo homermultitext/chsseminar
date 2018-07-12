@@ -12,7 +12,7 @@ Scholia in the Upsilon 1.1 manuscript will begin with this URN:
 
 For the Venetus B, use:
 
-   urn:cts:greekLit:tlg5026.msB.hmt:
+    urn:cts:greekLit:tlg5026.msB.hmt:
 
 
 
