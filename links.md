@@ -21,8 +21,8 @@ title: "Key links and references"
 
 Pages of the Upsilon 1.1 manuscript:  `urn:cite2:hmt:e3.v1:`
 
-Images of the Upsilon 1.1 manuscript:   `urn:cite2:hmt:vbbifolio.v1:`
+Images of the Upsilon 1.1 manuscript:   `urn:cite2:hmt:e3bifolio.v1:`
 
 Pages of the Venetus B manuscripts:  `urn:cite2:hmt:msB.v1:`
 
-Images of the Venetus B manuscript:   `urn:cite2:hmt:e3bifolio.v1:`
+Images of the Venetus B manuscript:   `urn:cite2:hmt:vbbifolio.v1:`
