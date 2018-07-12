@@ -16,6 +16,6 @@ For the Venetus B, use:
 
 
 
-You will append to these the identifier for the specific scholion.  The convention we will follow is to begin with the page identifier (e.g., for the recto side of folio 127, `127r`), followed by an underscore, followed by a sequential number.
+You will append to these the identifier for the specific scholion.  The convention we will follow is to begin with the page identifier (e.g., for the recto side of folio 127, `127r`), followed by an underscore, followed by a sequential number. **NB**:  this may not correspond to the footnote number used by the scribe! 
 
 For example, the first scholion on page 127 recto in the Upsilon 1.1 will  be named `urn:cts:greekLit:tlg5026.e3.hmt:127r_1`
