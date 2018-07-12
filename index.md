@@ -15,7 +15,7 @@ The Homer Multitext project’s 2018 summer seminar at the Center for Hellenic S
 -  Sequence of tasks:
    1.  index *Iliad* lines in Upsilon 1.1 (optionally:  Venetus B)
    2. edit *Iliad* lines in Upsilon 1.1
-   3. index scholia in Upsilon 1.1
+   3. index scholia in Upsilon 1.1.  (See [how to create IDs for scholia](name-your-scholion).)
    4. edit scholia in Upsilon 1.1
    5. index scholion markers in Upsilon 1.1
 
