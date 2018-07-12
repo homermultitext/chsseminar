@@ -10,7 +10,8 @@ The Homer Multitext project’s 2018 summer seminar at the Center for Hellenic S
 
 ## News, announcements
 
--   "[Key links](links)" page now includes "A cheat sheet on the HMT project work flow with git"
+
+-   Slides from  "Scripting the Homer Multitext"  available in [this folder](scripting)
 
 
 
