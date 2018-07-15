@@ -1,1 +1,4 @@
-Moving seminar website to this subdir for publication in ghpages.
+In transit!
+
+CHS seminar website is coming here momentarily...
+
