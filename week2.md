@@ -3,101 +3,46 @@ title: Week 2 schedule
 layout: page
 ---
 
-Iliad 10 in the Scholia
 
-Reading assignment in advance of session: http://homermultitext.blogspot.com/2012/02/comparing-scholia-one-example.html
+## Mon., July 16
 
-
-
+**AM session**:  Iliad 10 in the Scholia.  Preparation: please read "[Comparing Scholia: one example](http://homermultitext.blogspot.com/2012/02/comparing-scholia-one-example.html)"
 
 
+**PM session**:  Publishing the Homer Multitext
 
-## Mon., July 10
+**Scripting the Homer Multitext**:  Create your own classes.  (This will be our final scripting session:  you now have enough background for us use short scripts in our seminar sessions.)
 
-
-
-**AM session**:  Machines and scholarship:  what is a digital edition? what authority does it have?
-
-Reading assignment:
-
--   Matthew Jockers, *Macronanalysis*, chapters 1 and 2 (emailed).
--   [Interview with Franco Moretti](https://lareviewofbooks.org/article/the-digital-in-the-humanities-an-interview-with-franco-moretti/) in the LA Review of Books
--    Helen Dewitt, *The Last Samurai* (selection emailed)
-
-**Team project**:  Validating text editing
+**Pancake potluck**: time and place TBA.
 
 
-**PM session**:  ὑπὲρ μόρον: Iliad 20 and the poetics of multiformity
+## Tues., July 17
 
-Reading assignment in advance of session: (Re)read *Iliad* 20 in English, Dutch or Greek.
+**AM session**:  Navigating the Homer Multitext project, and writing with Markdown.  [Preparation](../schedule/markdown-intro)
 
-**Bonus session**: building a search and retrieval engine for citable texts.
+**PM session**:  A tour of the Homer Multitext archive
 
-## Tues., July 11
+## Wed., July 18
 
-**AM session**:  Latent patterns in texts
+**AM session**:  Homeric scholia and manuscripts in 2018.
 
-Reading:
-
--   Matthew Jockers, *Macronanalysis*, chapter 8  (emailed).
-
-**Team project**:  Continue editing and validating.
-
-**PM session**:  Scholia reading.
-
-Reading assignment:   Each team should identify one question they want to ask about a scholion.  We will collectively read the scholion.
+**PM session**:  Topic modelling the *Iliad*.  [Preparation](../schedule/topic-modelling).
 
 
+## Thurs., July 19
 
-**Bonus session**:    overview of the HMT digital archive
+**AM session**:  Individual team consultations on projects + meetings with groups by institution to plan work beyond summer, 2018.
 
-
-## Wed., July 12
-
-**AM session**:   Writing with markdown
-
-Assignment in advance of session:
-
--   One historian's perspective on  [writing with markdown](http://benschmidt.org/2014/09/05/markdown-historical-writing-and-killer-apps/)
--   [a 60-second intro to markdown](http://commonmark.org/help/).  Use the *leftmost column* of examples for HMT writing.
-
-
-**Team project**:  prepare first draft of presentation
-
-**PM session**:  Formulating and developing research questions about a multitext
-
-**Bonus session**: workshop sesion.  Scripting your research question?
-
-## Thurs., July 13
-
-**AM session**:  Individual team consultations on projects + meetings with groups by institution to plan work beyond summer, 2017.
-
-- 9:00  Team 3
-- 9:20  Team 10
-- 9:40  Team 11
-- 10:00 All Leiden University
-- 10:20 All Holy Cross
-- 10:40 Furman, Trinity, Washington
-
-**Team project**:  Rehearse oral presentation
+**Team project**:  Rehearse oral presentations
 
 **PM session**:  Individual team rehearsals of oral presentations.
 
-2:00 Team 3
-2:30 Team 10
-3:00 Team 11
-3:30 Associate faculty
+## Fri., July 20
 
-
-**Bonus session**:  workshop session.  Reviewing scripting for oral presentations.
-
-## Fri., July 14
-
-(Happy Bastille Day)
 
 **AM session**:  Presentations.
 
 **PM session**:  Past perspectives and future prospects for the HMT project.
 
 
-**Closing dinner**.
+**Closing dinner**.  Time TBA
