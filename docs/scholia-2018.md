@@ -1,4 +1,7 @@
-# Scholia to the *Iliad*, 2018
+---
+layout:  page
+title: "Scholia to the *Iliad*, 2018"
+---
 
 These notes are a highly personal perspective on what we know about scholia to the *Iliad* in the summer of 2018.  They are prompted by a unique moment in the history of the Homer Multitext project:  we now have a complete first text of the Venetus A manuscript's *Iliad* text and scholia, and are beginning to edit further early MSS with extensive scholia to the *Iliad*.  It is an opportune both to take stock of what we have learned, and ask how we might best work with a digital Homer Multitext to improve our understanding of this material.  Parts of these notes are simply questions we could consider together.
 

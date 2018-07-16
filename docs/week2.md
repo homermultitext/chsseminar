@@ -24,7 +24,7 @@ layout: page
 
 ## Wed., July 18
 
-**AM session**:  Homeric scholia and manuscripts in 2018.
+**AM session**:  [Homeric scholia and manuscripts in 2018](../scholia-2018).
 
 **PM session**:  Topic modelling the *Iliad*.  [Preparation](../schedule/topic-modelling).
 
