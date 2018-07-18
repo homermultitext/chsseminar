@@ -31,6 +31,8 @@ layout: page
 
 ## Thurs., July 19
 
+See [detailed schedule of meeting times](../thurs-sched)
+
 **AM session**:  Individual team consultations on projects + meetings with groups by institution to plan work beyond summer, 2018.
 
 **Team project**:  Rehearse oral presentations
