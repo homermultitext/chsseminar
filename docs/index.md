@@ -10,8 +10,8 @@ The Homer Multitext project’s 2018 summer seminar at the Center for Hellenic S
 
 ## News, announcements
 
-
--  Indexing scholion markers:  please [review these notes](scholion-markers)
+-   Result of Tuesday's discussion of markdown:  a new [pure-markdown facsimile viewer](https://homermultitext.github.io/facsimiles/) for HMT editions
+-   Indexing scholion markers:  please [review these notes](scholion-markers)
 
 
 ## HMT seminar, 2018
