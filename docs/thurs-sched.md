@@ -11,10 +11,9 @@ title: "Thursday schedule"
 -  10:00 Team 10
 -  10:30  Team 5
 
-## Planning for next year
+## Dress rehearsal
 
--  2:00 Leiden
--  2:20 Furman
--  2:40 Washington
--  3:00 Trinity
--  3:20 Holy Cross
+-  2:00 Team 10
+-  2:20 Team 3
+-  2:40 Team 5
+-  3:00 Team 9
